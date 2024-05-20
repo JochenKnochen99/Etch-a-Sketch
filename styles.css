@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    border: 1px red solid;
+    max-width: 1050px;    
+    min-height: 975px;
+    flex-wrap: wrap;
+    
+}
